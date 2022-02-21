@@ -1,0 +1,25 @@
+body{
+    color: greenyellow;
+    background-color: blueviolet;
+}
+h1{
+    font-size: 45px;
+    font-style: italic;
+}
+p{
+    color:gold;
+    font-size: 25px;
+}
+span{
+    font-size: 25px;
+}
+#b1{
+    background-color:yellow;
+    color:blueviolet;
+}
+#s1{
+    text-align: left;
+}
+#s2{
+    text-align:right ;
+}
